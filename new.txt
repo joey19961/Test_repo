@@ -2,4 +2,6 @@ By collab: joey19962
 
 New change from joeylamcy. Will transfer this forked repository to joey19961.
 
-Test edit after transferred ownership.
+Test edit from joeylamcy after transferred ownership.
+
+Test edit from a local machine of joeylamcy. Let's see if it can be pushed to Github.
